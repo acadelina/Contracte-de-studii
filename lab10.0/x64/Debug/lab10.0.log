@@ -1,0 +1,17 @@
+﻿  Reading Qt configuration (C:/qt/6.7.0/msvc2019_64/bin/qmake)
+  contGUI.cpp
+  ContractGUI.cpp
+  contRoGUI.cpp
+  DisciplinaGUI.cpp
+  disListModel.cpp
+  repoDis.cpp
+  serviceDis.cpp
+  validator.cpp
+  contract.cpp
+  disciplina.cpp
+  Export.cpp
+  lab100.cpp
+  main.cpp
+  qrc_lab100.cpp
+  moc_lab100.cpp
+  lab10.0.vcxproj -> C:\Users\adeli\Desktop\an1\Sem2\OOP\lab10.0\x64\Debug\lab10.0.exe
